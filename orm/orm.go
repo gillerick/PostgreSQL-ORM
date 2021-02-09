@@ -9,9 +9,9 @@ _ "github.com/lib/pq"
 const (
 	host = "localhost"
 	port = 5432
-	user = "postgres"
-	password = "Thanks001"
-	database = "users_db"
+	user = ""
+	password = ""
+	database = ""
 )
 
 
